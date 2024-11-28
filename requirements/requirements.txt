@@ -1,0 +1,4 @@
+discord
+rgbprint
+asyncio
+colorama

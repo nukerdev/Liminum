@@ -1,0 +1,9 @@
+{
+    "prefix": "#",
+    "token": "TOKEN HERE",
+    "webhooks": 500,
+    "target_file": "../export/webhooks-from-%guild_id%",
+    "command_name": "grab_webhooks",
+    "delete_message": true,
+    "webhook_info": true
+}
